@@ -1,0 +1,1 @@
+export const APIDOMAIN = "https://giphy.com/";
